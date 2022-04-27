@@ -11,6 +11,7 @@
                     <content >
                     <!-- <Text text="Anand"></Text> -->
                     <Text id="test" text="Anand"></Text>
+                    <Label id="lbl" text="Anand_Krishna"></Label>
                     </content>
                 </Page>
             </pages>
