@@ -11,9 +11,7 @@
                     <content >
                     <!-- <Text text="Anand"></Text> -->
                     <Text id="test" text="Anand"></Text>
-<<<<<<< feature-krishna-3
                     <Text id="test1" text="Anand_Krishna"></Text>
->>>>>>> master
                     </content>
                 </Page>
             </pages>
