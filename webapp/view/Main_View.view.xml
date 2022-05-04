@@ -13,6 +13,7 @@
                     <Text id="test" text="Anand"></Text>
                     <Label id="lbl" text="Anand_Krishna"></Label>
                     <Input id="i1" type="Text"></Input>
+                    <Text id="test2" text="Anand"></Text>
                     </content>
                 </Page>
             </pages>
