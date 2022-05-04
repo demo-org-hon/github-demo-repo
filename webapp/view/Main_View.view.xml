@@ -14,6 +14,7 @@
                     <Label id="lbl" text="Anand_Krishna"></Label>
                     <Input id="i1" type="Text"></Input>
                     <Text id="test2" text="Anand"></Text>
+                    <Text id="test3" text="Karie"></Text>
                     </content>
                 </Page>
             </pages>
